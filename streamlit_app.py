@@ -2,5 +2,7 @@
 # created the main python file
 import streamlit
 streamlit.title('My Parents New Healthy Dinner')
-streamlit.title('What Menu')
-streamlit.title('hard boiled')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
